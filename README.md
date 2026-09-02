@@ -1,4 +1,4 @@
-<img width="236" height="236" alt="image" src="https://github.com/user-attachments/assets/994483e5-d7d7-40e6-a451-1bfec25509dd" /># Distance Between Two Points Calculator
+# Distance Between Two Points Calculator
 
 ## Description
 
